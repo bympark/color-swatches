@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/color-swatches/static/js/runtime~main.67e1ceb9.js"
   },
   {
-    "revision": "aaffe8a38cca86091cc7",
-    "url": "/color-swatches/static/js/main.aaffe8a3.chunk.js"
+    "revision": "4333a7eb2ba4d7da1d3b",
+    "url": "/color-swatches/static/js/main.4333a7eb.chunk.js"
   },
   {
     "revision": "3d6c072ab97e2757e33a",
     "url": "/color-swatches/static/js/1.3d6c072a.chunk.js"
   },
   {
-    "revision": "aaffe8a38cca86091cc7",
-    "url": "/color-swatches/static/css/main.46f2bc75.chunk.css"
+    "revision": "4333a7eb2ba4d7da1d3b",
+    "url": "/color-swatches/static/css/main.0f125210.chunk.css"
   },
   {
-    "revision": "517b0f2e83563dc8cfa5af7859d75d40",
+    "revision": "dc5641230149ccf4a0e476b0cc82706b",
     "url": "/color-swatches/index.html"
   }
 ];
