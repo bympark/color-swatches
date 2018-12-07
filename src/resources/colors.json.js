@@ -194,5 +194,10 @@ export default {
       "hexadecimal": 0,
       "colorGroup": "Blue"
     },
+    {
+      "color": "#FFFFFFF",
+      "hexadecimal": 0,
+      "colorGroup": "Gray"
+    }
   ]
 }

@@ -1,8 +1,8 @@
 :local(.home) {
-  padding-left: 3%;
-  padding-right: 3%;
-  padding-top: 5%;
+  margin: auto;
+  margin-top: 60px;
   box-sizing: border-box;
+  max-width: 900px;
 }
 
 :local(.main) {
