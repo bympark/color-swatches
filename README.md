@@ -2,8 +2,9 @@
 
 Displays color swatches.
 
+Hosted on gh-pages [https://bympark.github.io/color-swatches/](https://bympark.github.io/color-swatches/).
 
-   
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
