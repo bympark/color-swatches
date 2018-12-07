@@ -13,7 +13,7 @@ class Tile extends Component {
     return(
       <Link
         to={{
-          pathname:'/Details',
+          pathname:'/color-swatches/Details',
           search: '?color=' + color,
           state: {color: color}
         }}

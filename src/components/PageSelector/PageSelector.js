@@ -11,7 +11,7 @@ class PageSelector extends Component {
         <Link
           key={i}
           to={{
-            pathname:'/',
+            pathname:'/color-swatches/',
             search: '?page=' + i,
             state: { page: i}
           }}

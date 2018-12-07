@@ -6,7 +6,7 @@ import styles from './Details.css';
 class Details extends Component {
   render() {
     const color= this.props.location.state;
-    const pathname = '/';
+    const pathname = '/color-swatches/';
     return(
       <div className={styles.details}>
         <div className={styles.mainTile}>
