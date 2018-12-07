@@ -1,0 +1,7 @@
+:local(.button) {
+  border-radius: 3px;
+  border: solid 1px black;
+  padding: 5px 15px 5px 15px;
+  background-color: #eeeeee;
+  cursor: pointer;
+}

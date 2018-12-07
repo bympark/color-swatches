@@ -1,0 +1,21 @@
+:local(.colorTile) {
+  height: 240px;
+  width: 200px;
+  border-radius: 10px;
+  border: solid 0px black;
+  box-shadow: 0 0 5px #999999;
+  overflow: hidden;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+
+:local(.colorBlock) {
+  height: 85%;
+}
+
+:local(.label) {
+  height: 15%;
+  padding-left: 6px;
+  padding-top: 6px;
+}

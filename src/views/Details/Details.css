@@ -1,0 +1,25 @@
+:local(.details) {
+  height: 100%;
+}
+
+:local(.mainTile) {
+  height: 70%;
+  width: 90%;
+  margin: auto;
+  border: solid black 1px;
+  font-size: 48px;
+  box-sizing: border-box;
+  margin-top: 60px;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+:local(.footer) {
+  width: 68px;
+  margin: auto;
+  margin-top: 50px;
+}
+
+:local(.footer a) {
+  width: 100%;
+}

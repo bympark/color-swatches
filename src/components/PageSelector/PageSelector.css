@@ -1,0 +1,9 @@
+:local(.pageSelector) {
+  text-align: center;
+  padding-top: 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 200px;
+  margin: auto;
+}
