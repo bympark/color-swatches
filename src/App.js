@@ -13,7 +13,7 @@ class App extends Component {
           <Frame/>
           <div className='content'>
             <Route exact path='/color-swatches/' component={Home} />
-            <Route path='color-swatches/Details' render={(props) => <Details {...props} />} />
+            <Route path='/color-swatches/Details' render={(props) => <Details {...props} />} />
           </div>
         </div>
       </Router>

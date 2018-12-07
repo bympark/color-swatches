@@ -12,7 +12,7 @@ class Sidebar extends Component {
     const color = colors.colorArray[randomNumber].color;
     const state = {color: color}
     const param = '?color=' + color;
-    const pathname = '/Details';
+    const pathname = '/color-swatches/Details';
     return(
       <div className={styles.sidebar}>
         <NavButton className={styles.randomColorButton} children="Random Color" pathname={pathname} state={state} param={param}/>
