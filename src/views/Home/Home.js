@@ -4,7 +4,7 @@ import PageSelector from '../../components/PageSelector';
 import styles from './Home.css';
 
 // TODO get request from API for color list instead of importing json file
-import { default as colors } from '../../resources/colors.json.ts';
+import { default as colors } from '../../resources/colors.json.js';
 
 class Home extends Component {
   constructor(props) {

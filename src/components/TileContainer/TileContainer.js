@@ -3,7 +3,7 @@ import Tile from '../Tile';
 import styles from './TileContainer.css';
 
 // TODO get request from API for color list instead of importing json file
-import { default as colors } from '../../resources/colors.json.ts';
+import { default as colors } from '../../resources/colors.json.js';
 
 class TileContainer extends Component {
   constructor(props) {

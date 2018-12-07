@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import styles from './Sidebar.css';
 import NavButton from '../../../components//NavButton';
 
-import { default as colors } from '../../../resources/colors.json.ts';
+import { default as colors } from '../../../resources/colors.json.js';
 
 
 class Sidebar extends Component {
